@@ -3,6 +3,12 @@
     <output-path>$PROJECT_DIR$/target</output-path>
     <root id="archive" name="jeesite.war">
       <element id="artifact" artifact-name="jeesite:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="sqljdbc4" />
+          <element id="library" level="project" name="dbunit-2.4.9" />
+        </element>
+      </element>
     </root>
   </artifact>
 </component>
