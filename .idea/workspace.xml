@@ -2,35 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f358cd3-2b88-4fbc-9c55-a017a88c3b8c" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\SuperSlide\demo\images\Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins2\Blue\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins2\Gray\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins2\Green\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins2\Pink\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins2\Purple\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins2\Yellow\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\Blue\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\Bootstrap\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\Brown\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\Default\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\GrayCool\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\Gray\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\Green\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\GreyBlue\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\Purple\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\Red\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\ShareBlue\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\ShareBrown\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\ShareGreen\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\SharePurple\Desktop.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Dropbox\IDEA\jeesite\src\main\webapp\static\jquery-jbox\2.3\Skins\ShareRed\Desktop.ini" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/refresh-db/sys/jeesite_data.xls" afterPath="$PROJECT_DIR$/bin/refresh-db/sys/jeesite_data.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LogController.java" afterPath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LogController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LoginController.java" afterPath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LoginController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/MenuController.java" afterPath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/MenuController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/OfficeController.java" afterPath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/OfficeController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/RoleController.java" afterPath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/RoleController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jeesite.iml" afterPath="$PROJECT_DIR$/jeesite.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/entity/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/entity/User.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jeesite.iws" />
@@ -94,84 +66,7 @@
     <favorites_list name="jeesite" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LogController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LogController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="0" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginController.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LoginController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="79" column="9" selection-start="2876" selection-end="2876" vertical-scroll-proportion="0.37795275" vertical-offset="1244" max-vertical-offset="2740">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#LoginController#0" expanded="true" />
-                <element signature="docComment;method#login#0;class#LoginController#0" expanded="true" />
-                <element signature="docComment;method#login#1;class#LoginController#0" expanded="true" />
-                <element signature="docComment;method#index#0;class#LoginController#0" expanded="true" />
-                <element signature="docComment;method#getThemeInCookie#0;class#LoginController#0" expanded="true" />
-                <element signature="docComment;method#isValidateCodeLogin#0;class#LoginController#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoleController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/RoleController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="153" column="29" selection-start="5838" selection-end="5838" vertical-scroll-proportion="0.0" vertical-offset="3551" max-vertical-offset="4440">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#RoleController#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MenuController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/MenuController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="47" selection-start="1862" selection-end="1862" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="3280">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#MenuController#0" expanded="true" />
-                <element signature="docComment;method#updateSort#0;class#MenuController#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OfficeController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/OfficeController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="32" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="3160">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#OfficeController#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TagController.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/TagController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="13" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -202,6 +97,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/MenuController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/OfficeController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/RoleController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/entity/User.java" />
       </list>
     </option>
   </component>
@@ -582,6 +478,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: javax.servlet:servlet-api:2.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet-api-2.5.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jeesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: javax.servlet:servlet-api:2.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet-api-2.5.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jeesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: javax.servlet:servlet-api:2.5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet-api-2.5.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="servlet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jeesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Maven: com.alibaba:druid:0.2.19" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
@@ -933,6 +895,44 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="sys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jeesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jeesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jeesite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sys" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="entity" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1697,7 +1697,7 @@
       <workItem from="1389847560787" duration="7760000" />
       <workItem from="1389874495358" duration="1088000" />
       <workItem from="1389877323321" duration="566000" />
-      <workItem from="1389877968808" duration="3706000" />
+      <workItem from="1389877968808" duration="3930000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1389751542600</created>
@@ -1719,11 +1719,15 @@
       <created>1389861995332</created>
       <updated>1389861995332</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="home, 1.16&#10;">
+      <created>1389883088629</created>
+      <updated>1389883088629</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35225000" />
+    <option name="totallyTimeSpent" value="35449000" />
   </component>
   <component name="TodoView" selected-index="0">
     <todo-panel id="selected-file">
@@ -1747,7 +1751,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.36849132" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1762,7 +1766,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3288948" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32978722" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19444445" sideWeight="0.5543478" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19444445" sideWeight="0.5543478" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.35380507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1802,7 +1806,8 @@
     <MESSAGE value="work-ms sql" />
     <MESSAGE value="company, 1.16&#10;" />
     <MESSAGE value="company, 1.16&#10; add mssql database Success" />
-    <option name="LAST_COMMIT_MESSAGE" value="company, 1.16&#10; add mssql database Success" />
+    <MESSAGE value="home, 1.16&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="home, 1.16&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1812,16 +1817,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="35" selection-start="2028" selection-end="2028" vertical-scroll-proportion="-0.41608876" vertical-offset="600" max-vertical-offset="3840" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/common/utils/Encodes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="13" selection-start="651" selection-end="651" vertical-scroll-proportion="0.16949153" vertical-offset="0" max-vertical-offset="1880" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/common/web/BaseController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="22" selection-start="997" selection-end="997" vertical-scroll-proportion="-1.2468793" vertical-offset="1019" max-vertical-offset="1740" />
@@ -1830,13 +1825,6 @@
     <entry file="jar://$PROJECT_DIR$/../../JAVA/sqljdbc4.jar!/com/microsoft/sqlserver/jdbc/SQLServerDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="19" selection-start="177" selection-end="177" vertical-scroll-proportion="-0.40556368" vertical-offset="377" max-vertical-offset="1060" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="21" selection-start="2647" selection-end="2647" vertical-scroll-proportion="0.5021962" vertical-offset="717" max-vertical-offset="1400">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/ckfinder.xml">
@@ -2056,16 +2044,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.2.RELEASE/spring-context-3.2.2.RELEASE-sources.jar!/org/springframework/ui/Model.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="0" selection-start="2088" selection-end="2088" vertical-scroll-proportion="0.3824522" vertical-offset="0" max-vertical-offset="889">
+        <state line="58" column="13" selection-start="3042" selection-end="3042" vertical-scroll-proportion="0.15748031" vertical-offset="0" max-vertical-offset="2740">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/shiro/shiro-web/1.2.2/shiro-web-1.2.2-sources.jar!/org/apache/shiro/web/filter/authc/FormAuthenticationFilter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/OfficeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="13" selection-start="3042" selection-end="3042" vertical-scroll-proportion="0.15748031" vertical-offset="0" max-vertical-offset="2740">
+        <state line="51" column="32" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-0.7424072" vertical-offset="1680" max-vertical-offset="3160">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#OfficeController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/TagController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="678" selection-end="678" vertical-scroll-proportion="0.1799775" vertical-offset="0" max-vertical-offset="889">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/RoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="29" selection-start="5838" selection-end="5838" vertical-scroll-proportion="-0.55230594" vertical-offset="3551" max-vertical-offset="4440">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#RoleController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/MenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="47" selection-start="1862" selection-end="1862" vertical-scroll-proportion="0.65241843" vertical-offset="540" max-vertical-offset="3280">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#MenuController#0" expanded="true" />
+            <element signature="docComment;method#updateSort#0;class#MenuController#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="4" selection-start="867" selection-end="867" vertical-scroll-proportion="0.30092594" vertical-offset="0" max-vertical-offset="1400">
           <folding />
         </state>
       </provider>
@@ -2079,57 +2108,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LogController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5-sources.jar!/javax/servlet/http/HttpServletRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1089" selection-end="1089" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+        <state line="46" column="17" selection-start="1411" selection-end="1411" vertical-scroll-proportion="-1.1698538" vertical-offset="1260" max-vertical-offset="4040">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/OfficeController.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.2.RELEASE/spring-context-3.2.2.RELEASE-sources.jar!/org/springframework/ui/Model.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="32" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.0" vertical-offset="1680" max-vertical-offset="3160">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#OfficeController#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/TagController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="740">
+        <state line="29" column="17" selection-start="979" selection-end="979" vertical-scroll-proportion="0.15748031" vertical-offset="0" max-vertical-offset="889">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/RoleController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="153" column="29" selection-start="5838" selection-end="5838" vertical-scroll-proportion="0.0" vertical-offset="3551" max-vertical-offset="4440">
+        <state line="101" column="53" selection-start="3204" selection-end="3204" vertical-scroll-proportion="2.272216" vertical-offset="0" max-vertical-offset="6040">
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="docComment;class#RoleController#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/MenuController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="47" selection-start="1862" selection-end="1862" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="3280">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#MenuController#0" expanded="true" />
-            <element signature="docComment;method#updateSort#0;class#MenuController#0" expanded="true" />
+            <element signature="docComment;class#User#0" expanded="true" />
+            <element signature="e#2912#2913#0" expanded="true" />
+            <element signature="e#2937#2938#0" expanded="true" />
+            <element signature="e#2971#2972#0" expanded="true" />
+            <element signature="e#2999#3000#0" expanded="true" />
+            <element signature="e#3236#3237#0" expanded="true" />
+            <element signature="e#3266#3267#0" expanded="true" />
+            <element signature="e#3312#3313#0" expanded="true" />
+            <element signature="e#3350#3351#0" expanded="true" />
+            <element signature="e#3585#3586#0" expanded="true" />
+            <element signature="e#3614#3615#0" expanded="true" />
+            <element signature="e#3658#3659#0" expanded="true" />
+            <element signature="e#3694#3695#0" expanded="true" />
+            <element signature="e#3815#3816#0" expanded="true" />
+            <element signature="e#3847#3848#0" expanded="true" />
+            <element signature="e#3897#3898#0" expanded="true" />
+            <element signature="e#3939#3940#0" expanded="true" />
+            <element signature="e#4022#4023#0" expanded="true" />
+            <element signature="e#4053#4054#0" expanded="true" />
+            <element signature="e#4101#4102#0" expanded="true" />
+            <element signature="e#4141#4142#0" expanded="true" />
+            <element signature="e#4256#4257#0" expanded="true" />
+            <element signature="e#4283#4284#0" expanded="true" />
+            <element signature="e#4396#4397#0" expanded="true" />
+            <element signature="e#4421#4422#0" expanded="true" />
+            <element signature="e#4457#4458#0" expanded="true" />
+            <element signature="e#4485#4486#0" expanded="true" />
+            <element signature="e#4525#4526#0" expanded="true" />
+            <element signature="e#4557#4558#0" expanded="true" />
+            <element signature="e#4684#4685#0" expanded="true" />
+            <element signature="e#4712#4713#0" expanded="true" />
+            <element signature="e#4754#4755#0" expanded="true" />
+            <element signature="e#4788#4789#0" expanded="true" />
+            <element signature="e#4904#4905#0" expanded="true" />
+            <element signature="e#4932#4933#0" expanded="true" />
+            <element signature="e#4974#4975#0" expanded="true" />
+            <element signature="e#5008#5009#0" expanded="true" />
+            <element signature="e#5125#5126#0" expanded="true" />
+            <element signature="e#5154#5155#0" expanded="true" />
+            <element signature="e#5198#5199#0" expanded="true" />
+            <element signature="e#5234#5235#0" expanded="true" />
+            <element signature="e#5336#5337#0" expanded="true" />
+            <element signature="e#5366#5367#0" expanded="true" />
+            <element signature="e#5515#5516#0" expanded="true" />
+            <element signature="e#5546#5547#0" expanded="true" />
+            <element signature="e#5594#5595#0" expanded="true" />
+            <element signature="e#5634#5635#0" expanded="true" />
+            <element signature="e#5748#5749#0" expanded="true" />
+            <element signature="e#5781#5782#0" expanded="true" />
+            <element signature="e#5882#5883#0" expanded="true" />
+            <element signature="e#5912#5913#0" expanded="true" />
+            <element signature="e#5958#5959#0" expanded="true" />
+            <element signature="e#5996#5997#0" expanded="true" />
+            <element signature="e#6146#6147#0" expanded="true" />
+            <element signature="e#6178#6179#0" expanded="true" />
+            <element signature="e#6226#6227#0" expanded="true" />
+            <element signature="e#6268#6269#0" expanded="true" />
+            <element signature="e#6817#6818#0" expanded="true" />
+            <element signature="e#6848#6849#0" expanded="true" />
+            <element signature="e#6900#6901#0" expanded="true" />
+            <element signature="e#6940#6941#0" expanded="true" />
+            <element signature="docComment;method#getRoleNames#0;class#User#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LoginController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="9" selection-start="2876" selection-end="2876" vertical-scroll-proportion="0.37795275" vertical-offset="1244" max-vertical-offset="2740">
+        <state line="44" column="11" selection-start="1574" selection-end="1574" vertical-scroll-proportion="0.46006748" vertical-offset="471" max-vertical-offset="2740">
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -2140,6 +2207,13 @@
             <element signature="docComment;method#getThemeInCookie#0;class#LoginController#0" expanded="true" />
             <element signature="docComment;method#isValidateCodeLogin#0;class#LoginController#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thinkgem/jeesite/modules/sys/web/LogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="1604" selection-end="1604" vertical-scroll-proportion="0.5399325" vertical-offset="0" max-vertical-offset="889">
+          <folding />
         </state>
       </provider>
     </entry>
