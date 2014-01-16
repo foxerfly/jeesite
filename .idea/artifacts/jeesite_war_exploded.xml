@@ -123,6 +123,7 @@
           <element id="library" level="project" name="dbunit-2.4.9" />
         </element>
       </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/webapp/static" />
     </root>
   </artifact>
 </component>
